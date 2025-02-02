@@ -1,6 +1,9 @@
 ## AI-Diet-Assistant
 An AI Diet Assistant app that provides BMR-based diet recommendations to promote healthy eating habits. The app also provides recipe management.
 
+# Demo video
+https://drive.google.com/file/d/1cbVN8QMn8DIb7aw2fOkv6Y-fbgJZBJJd/view?usp=sharing
+
 ## You will need to use your own gemini api(which is free) to use the app
 Go to the code, search for api, paste your api within ""
 
